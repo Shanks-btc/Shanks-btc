@@ -20,13 +20,13 @@ I'm a **Full Stack Web & Blockchain Developer** with **4 years of experience** b
 - 🛠️ Also building **Onchain Wallet Intelligence API v2** — multi-provider wallet scoring (Covalent + Alchemy + Etherscan), trend classification & live dashboards
 - ⚡ Built **FlashBot Mint PRO** — MEV-speed NFT minting bot with Flashbots + 4 relay support, controlled via Telegram
 - 🎯 Built **Sniper Wallet Tracker** — Real-time monitoring of 64 sniper wallets via Alchemy WebSocket + copy-mint confidence scoring
-- 🧪 Deep in **smart money tracking**, copy-minting strategies & early-stage Web3 project discovery
+- ✂️ Built **[Scissors](https://scissors-sooty.vercel.app/)** — A clean URL shortener app that lets you shorten long links, copy them instantly, and manage them with ease
+- 🌦️ Built **[Advanced Weather App](https://weather-app-rectjs.vercel.app/)** — A React-powered weather app that fetches real-time weather data by city, displaying temperature, conditions, and forecasts with a sleek UI
+- 💬 Built **[Discord UI Clone](https://discordui-pi.vercel.app/)** — A pixel-perfect clone of the Discord interface built to demonstrate advanced frontend layout and component skills
+- 🧪 Deep in **smart money tracking**, researching and early-stage Web3 project discovery
 - 🐦 Sharing Web3 alpha for beginners on Crypto Twitter — **~2K followers & growing**
 - 💬 Ask me about **everything blockchain and full stack development**
 - 📍 United Kingdom
-- ✂️ **[Scissors](https://scissors-sooty.vercel.app/)** — A clean URL shortener app that lets you shorten long links, copy them instantly, and manage them with ease
-- 🌦️ **[Advanced Weather App](https://weather-app-rectjs.vercel.app/)** — A React-powered weather app that fetches real-time weather data by city, displaying temperature, conditions, and forecasts with a sleek UI
-- 💬 **[Discord UI Clone](https://discordui-pi.vercel.app/)** — A pixel-perfect clone of the Discord interface built to demonstrate advanced frontend layout and component skills
 
 ---
 
