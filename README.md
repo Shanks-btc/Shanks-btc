@@ -1,13 +1,12 @@
-My GitHub profile README - Web3 Dev | NFT Trader | Blockchain Builder
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Shanks-btc&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Web3%20Developer%20%7C%20NFT%20Trader%20%7C%20Blockchain%20Builder&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Shanks-btc&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Web%20%26%20Blockchain%20Developer&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=650&lines=Hey+there%2C+I'm+Shanks+%F0%9F%91%8B;Web3+Dev+%7C+NFT+Trader+%7C+Bot+Builder;Building+on-chain+tooling+%26+MEV+infra;Flashbots+%7C+Ethers.js+v6+%7C+Smart+Contracts)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=650&lines=Hey+there%2C+I'm+Shanks+%F0%9F%91%8B;Full+Stack+Web+%26+Blockchain+Developer;4+Years+Building+on+the+Web+%26+On-Chain;MERN+Stack+%7C+Solidity+%7C+MEV+Infrastructure)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,15 +14,15 @@ My GitHub profile README - Web3 Dev | NFT Trader | Blockchain Builder
 
 ### 🧠 About Me
 
-I'm a **Web3 Developer & Blockchain Builder** 🇳🇬, obsessed with on-chain intelligence, MEV infrastructure, and building tools that give traders an edge.
+I'm a **Full Stack Web & Blockchain Developer** 🇳🇬 with **4 years of experience** building production-grade web apps and on-chain tooling.
 
-- 🔭 Currently building **Onchain Wallet Intelligence API v2** — multi-provider wallet scoring (Covalent + Alchemy + Etherscan), trend classification & live dashboards
+- 🔭 Currently building **[Aurex](https://github.com/Shanks-btc/aurex)** — my latest project on-chain
+- 🔭 Also building **Onchain Wallet Intelligence API v2** — multi-provider wallet scoring (Covalent + Alchemy + Etherscan), trend classification & live dashboards
 - ⚡ Built **FlashBot Mint PRO** — MEV-speed NFT minting bot with Flashbots + 4 relay support, controlled via Telegram
 - 🎯 Built **Sniper Wallet Tracker** — Real-time monitoring of 64 sniper wallets via Alchemy WebSocket + copy-mint confidence scoring
-- 📊 Built **[ClawSight](https://claw-sight-app.vercel.app)** — Trade audit terminal for the Binance ecosystem with dual-moment audit & PnL cards
 - 🧪 Deep in **smart money tracking**, copy-minting strategies & early-stage Web3 project discovery
 - 🐦 Sharing Web3 alpha for beginners on Crypto Twitter — **~2K followers & growing**
-- 💬 Ask me about **MEV, Flashbots, NFT bots, wallet analytics, ethers.js v6**
+- 💬 Ask me about **MERN Stack, MEV, Flashbots, NFT bots, wallet analytics, ethers.js v6**
 - 📍 United Kingdom
 
 ---
@@ -95,6 +94,18 @@ I'm a **Web3 Developer & Blockchain Builder** 🇳🇬, obsessed with on-chain i
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Shanks-btc&theme=radical&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+<div align="center">
+
+[![Aurex](https://github-readme-stats.vercel.app/api/pin/?username=Shanks-btc&repo=aurex&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff)](https://github.com/Shanks-btc/aurex)
+&nbsp;
+[![Onchain Wallet Intelligence](https://github-readme-stats.vercel.app/api/pin/?username=Shanks-btc&repo=sniper-bot&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff)](https://github.com/Shanks-btc)
 
 </div>
 
