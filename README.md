@@ -14,7 +14,7 @@
 
 ### 🧠 About Me
 
-I'm a **Full Stack Web & Blockchain Developer** 🇳🇬 with **4 years of experience** building production-grade web apps and on-chain tooling.
+I'm a **Full Stack Web & Blockchain Developer** with **4 years of experience** building production-grade web apps and on-chain tooling.
 
 - 🔭 Currently building **[Aurex](https://github.com/Shanks-btc/aurex)** — my latest on-chain project
 - 🛠️ Also building **Onchain Wallet Intelligence API v2** — multi-provider wallet scoring (Covalent + Alchemy + Etherscan), trend classification & live dashboards
@@ -24,6 +24,9 @@ I'm a **Full Stack Web & Blockchain Developer** 🇳🇬 with **4 years of exper
 - 🐦 Sharing Web3 alpha for beginners on Crypto Twitter — **~2K followers & growing**
 - 💬 Ask me about **everything blockchain and full stack development**
 - 📍 United Kingdom
+- 🔗 **[Scissors App](https://scissors-sooty.vercel.app/)** — A URL shortener web app
+- 🌦️ **[Weather App](https://weather-app-rectjs.vercel.app/)** — A React weather application
+- 💬 **[Discord UI Clone](https://discordui-pi.vercel.app/)** — A pixel-perfect Discord UI clone
 
 ---
 
