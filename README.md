@@ -16,13 +16,13 @@
 
 I'm a **Full Stack Web & Blockchain Developer** 🇳🇬 with **4 years of experience** building production-grade web apps and on-chain tooling.
 
-- 🔭 Currently building **[Aurex](https://github.com/Shanks-btc/aurex)** — my latest project on-chain
-- 🔭 Also building **Onchain Wallet Intelligence API v2** — multi-provider wallet scoring (Covalent + Alchemy + Etherscan), trend classification & live dashboards
+- 🔭 Currently building **[Aurex](https://github.com/Shanks-btc/aurex)** — my latest on-chain project
+- 🛠️ Also building **Onchain Wallet Intelligence API v2** — multi-provider wallet scoring (Covalent + Alchemy + Etherscan), trend classification & live dashboards
 - ⚡ Built **FlashBot Mint PRO** — MEV-speed NFT minting bot with Flashbots + 4 relay support, controlled via Telegram
 - 🎯 Built **Sniper Wallet Tracker** — Real-time monitoring of 64 sniper wallets via Alchemy WebSocket + copy-mint confidence scoring
 - 🧪 Deep in **smart money tracking**, copy-minting strategies & early-stage Web3 project discovery
 - 🐦 Sharing Web3 alpha for beginners on Crypto Twitter — **~2K followers & growing**
-- 💬 Ask me about **MERN Stack, MEV, Flashbots, NFT bots, wallet analytics, ethers.js v6**
+- 💬 Ask me about **everything blockchain and full stack development**
 - 📍 United Kingdom
 
 ---
@@ -104,8 +104,6 @@ I'm a **Full Stack Web & Blockchain Developer** 🇳🇬 with **4 years of exper
 <div align="center">
 
 [![Aurex](https://github-readme-stats.vercel.app/api/pin/?username=Shanks-btc&repo=aurex&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff)](https://github.com/Shanks-btc/aurex)
-&nbsp;
-[![Onchain Wallet Intelligence](https://github-readme-stats.vercel.app/api/pin/?username=Shanks-btc&repo=sniper-bot&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff)](https://github.com/Shanks-btc)
 
 </div>
 
@@ -123,7 +121,7 @@ I'm a **Full Stack Web & Blockchain Developer** 🇳🇬 with **4 years of exper
 
 <div align="center">
 
-### 💡 *"Smart money doesn't sleep — and neither does my tracker."*
+### 💡 *"Ship it on-chain, scale it on the web."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Shanks-btc&color=a78bfa&style=flat-square&label=Profile+Views)
 
