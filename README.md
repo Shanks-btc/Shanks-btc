@@ -24,9 +24,9 @@ I'm a **Full Stack Web & Blockchain Developer** with **4 years of experience** b
 - 🐦 Sharing Web3 alpha for beginners on Crypto Twitter — **~2K followers & growing**
 - 💬 Ask me about **everything blockchain and full stack development**
 - 📍 United Kingdom
-- 🔗 **[Scissors App](https://scissors-sooty.vercel.app/)** — A URL shortener web app
-- 🌦️ **[Weather App](https://weather-app-rectjs.vercel.app/)** — A React weather application
-- 💬 **[Discord UI Clone](https://discordui-pi.vercel.app/)** — A pixel-perfect Discord UI clone
+- ✂️ **[Scissors](https://scissors-sooty.vercel.app/)** — A clean URL shortener app that lets you shorten long links, copy them instantly, and manage them with ease
+- 🌦️ **[Advanced Weather App](https://weather-app-rectjs.vercel.app/)** — A React-powered weather app that fetches real-time weather data by city, displaying temperature, conditions, and forecasts with a sleek UI
+- 💬 **[Discord UI Clone](https://discordui-pi.vercel.app/)** — A pixel-perfect clone of the Discord interface built to demonstrate advanced frontend layout and component skills
 
 ---
 
