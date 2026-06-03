@@ -153,36 +153,6 @@ Building production-grade web applications and on-chain infrastructure for the a
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shanks-btc&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="GitHub Trophies" />
-</p>
-
----
-
-## 📌 Pinned
-
-<p align="center">
-  <a href="https://github.com/Shanks-btc/aurex">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shanks-btc&repo=aurex&theme=tokyonight&hide_border=true" alt="Aurex" />
-  </a>
-  <a href="https://github.com/Shanks-btc/AetherCredit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shanks-btc&repo=AetherCredit&theme=tokyonight&hide_border=true" alt="AetherCredit" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Shanks-btc/Omen">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shanks-btc&repo=Omen&theme=tokyonight&hide_border=true" alt="OMEN Intelligence" />
-  </a>
-  <a href="https://github.com/Shanks-btc/Short-Squeeze-Intelligence">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shanks-btc&repo=Short-Squeeze-Intelligence&theme=tokyonight&hide_border=true" alt="Short-Squeeze-Intelligence" />
-  </a>
-</p>
-
----
-
 <p align="center">
   <b>Links:</b>
   <a href="https://github.com/Shanks-btc">GitHub</a> ·
