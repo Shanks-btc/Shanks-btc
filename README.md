@@ -18,7 +18,7 @@ Building production-grade web applications and on-chain infrastructure for the a
 
 ---
 
-##  Core Projects
+## 🚀 Core Projects
 
 **Aurex — Latest on-chain project**
 
@@ -112,10 +112,31 @@ Building production-grade web applications and on-chain infrastructure for the a
 
 ---
 
+## 🧭 Philosophy
+
+- **Agents are first-class users.** Build infrastructure they operate directly — not intermediaries that sit between them and the chain.
+- **Verifiable beats trusted.** Compute history, proofs, and on-chain records replace assumptions about who to believe.
+- **Reputation is portable.** Credit and credentials live on-chain and travel across ecosystems.
+- **Data earns its keep.** Pipelines exist to surface decisions, not to produce dashboards for their own sake.
+- **Ship working systems.** Hackathon prototypes become production infrastructure; infrastructure becomes platforms.
+
+---
+
+## ⚙️ Engineering Priorities
+
+1. **Multi-provider abstraction** — One clean API over many data sources, with no provider selection leaked to the user
+2. **Agent-native infrastructure** — Credit, settlement, and reputation primitives agents can call autonomously
+3. **MCP as the agent interface** — Standardized tool exposure via the Model Context Protocol
+4. **Verifiable execution** — Every decision and outcome backed by on-chain records and proof hashes
+5. **Developer velocity** — Reusable scaffolding, fallback fetchers, and full-stack templates that ship fast
+
+---
+
 ## 🔗 Socials
 
-[![Twitter](https://img.shields.io/badge/X/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/YOUR_HANDLE)
+[![X/Twitter](https://img.shields.io/badge/X/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Shank_btc)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shanks-btc)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pkelvin856@gmail.com)
 
 ---
 
@@ -136,4 +157,35 @@ Building production-grade web applications and on-chain infrastructure for the a
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Shanks-btc&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 📌 Pinned
+
+<p align="center">
+  <a href="https://github.com/Shanks-btc/aurex">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shanks-btc&repo=aurex&theme=tokyonight&hide_border=true" alt="Aurex" />
+  </a>
+  <a href="https://github.com/Shanks-btc/AetherCredit">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shanks-btc&repo=AetherCredit&theme=tokyonight&hide_border=true" alt="AetherCredit" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Shanks-btc/Omen">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shanks-btc&repo=Omen&theme=tokyonight&hide_border=true" alt="OMEN Intelligence" />
+  </a>
+  <a href="https://github.com/Shanks-btc/Short-Squeeze-Intelligence">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shanks-btc&repo=Short-Squeeze-Intelligence&theme=tokyonight&hide_border=true" alt="Short-Squeeze-Intelligence" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>Links:</b>
+  <a href="https://github.com/Shanks-btc">GitHub</a> ·
+  <a href="https://x.com/Shank_btc">X/Twitter</a> ·
+  <a href="mailto:pkelvin856@gmail.com">Email</a>
 </p>
