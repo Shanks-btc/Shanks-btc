@@ -18,7 +18,7 @@ Building production-grade web applications and on-chain infrastructure for the a
 
 ---
 
-## 🚀 Core Projects
+##  Core Projects
 
 **Aurex — Latest on-chain project**
 
@@ -29,7 +29,7 @@ Building production-grade web applications and on-chain infrastructure for the a
 
 **AetherCredit — Autonomous credit infrastructure for AI agents**
 
-- Turns verifiable compute history into on-chain credit, reputation, and working capital
+- Turns verifiable compute history into on-chain credit, reputation and working capital
 - Built for the machine economy on the 0G network
 - AI-agent native, with MCP integration
 - TypeScript + Solidity smart contracts
