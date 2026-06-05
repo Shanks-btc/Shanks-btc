@@ -110,15 +110,6 @@ Building production-grade web applications and on-chain infrastructure for the a
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
----
-
-## 🧭 Philosophy
-
-- **Agents are first-class users.** Build infrastructure they operate directly — not intermediaries that sit between them and the chain.
-- **Verifiable beats trusted.** Compute history, proofs, and on-chain records replace assumptions about who to believe.
-- **Reputation is portable.** Credit and credentials live on-chain and travel across ecosystems.
-- **Data earns its keep.** Pipelines exist to surface decisions, not to produce dashboards for their own sake.
-- **Ship working systems.** Hackathon prototypes become production infrastructure; infrastructure becomes platforms.
 
 ---
 
